@@ -1,0 +1,26 @@
+{
+  "name": "web_starter_kit",
+  "version": "0.0.1",
+  "description": "Web Personal Project",
+  "main": "app/index.html",
+  "keywords": [
+    "web",
+    "starter",
+    "kit",
+    "polymer"
+  ],
+  "authors": [
+    "Erick Garcia"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.5"
+  }
+}
